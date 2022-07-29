@@ -15,7 +15,7 @@ I am a **Front-end Developer.** <br />
 <div align='center'>
   
   <a href="https://github.com/ibtisam-hemmo/github-readme-stats">
-    <img align="center" width="52%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibtisam-hemmo&layout=compact" />
+    <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibtisam-hemmo&layout=compact" />
   </a><br/><br/>
   
    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ibtisam-hemmo)](https://git.io/streak-stats)

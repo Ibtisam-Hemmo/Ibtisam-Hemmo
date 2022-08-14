@@ -9,7 +9,9 @@ I am a **Front-end Developer.** <br />
 🌱 I’m currently learning JavaScript, React, and Software Development.  
 📫 How to reach me, Email: ibtisamhemmo@gmail.com.
 
-![](https://komarev.com/ghpvc/?username=Ibtisam-Hemmo)<br /><br />
+![](https://komarev.com/ghpvc/?username=Ibtisam-Hemmo)
+![Linkedin lor=black&link=Badge](https://img.shields.io/badge/-Ibtisam%20Hemmo-292929?style=flat-square&logo=Linkedin&logohttps://www.linkedin.com/in/ibtisam-hemmo-982a42208/) 
+ 
 
 
 <div align='center'>

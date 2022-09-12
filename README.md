@@ -1,6 +1,6 @@
 # [Ibtisam Hemmo](https://github.com/Ibtisam-Hemmo) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-It is Ibtisam, currently pursuing my software engineering from Al-Azhar university.<br />
+It is Ibtisam, currently pursuing my Software Engineering from Al-Azhar university.<br />
 I am a **Front-end Developer.** <br />
 
 

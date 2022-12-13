@@ -11,6 +11,21 @@ I am a **Full Stack web developer** and currently pursuing my Software Engineeri
 
 ![](https://komarev.com/ghpvc/?username=Ibtisam-Hemmo)
 <br><br>
+
+## Techniques & Tools <img width="40" src="https://c.tenor.com/Pnb_hVWq2sgAAAAi/on-process-dig.gif" />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,expressjs,figma,git,github,heroku,netlify,jest,linux,postgres,vite,react,redux,tailwind,vscode)" />
+  </a>
+</p>
+
+## Activity <img width="35" src="https://c.tenor.com/dWMRNxW7Ti4AAAAi/iota-tanglevision.gif" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ibtisam-hemmo&theme=dracula&show_icons=true" /><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibtisam-hemmo&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" />
+</div>
+
+## Let's Get in Touch 💡
  <p align="center">
     <a href="https://www.linkedin.com/in/ibtisamhemmo">
     <img src="https://img.shields.io/badge/-linkedin-%230966C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -25,18 +40,3 @@ I am a **Full Stack web developer** and currently pursuing my Software Engineeri
     <img src="https://img.shields.io/badge/-freecodecamp-2a2a40?style=for-the-badge&logo=freecodecamp&logoColor=white" />
     </a>
 </p> <br>
-
-## Programming Languages and Tools <img width="40" src="https://c.tenor.com/Pnb_hVWq2sgAAAAi/on-process-dig.gif" />
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,expressjs,figma,git,github,heroku,netlify,jest,linux,postgres,vite,react,redux,tailwind,vscode)" />
-  </a>
-</p>
-
-## Activity <img width="35" src="https://c.tenor.com/dWMRNxW7Ti4AAAAi/iota-tanglevision.gif" />
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ibtisam-hemmo&theme=dracula&show_icons=true" /><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibtisam-hemmo&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" />
-</div>
-
-

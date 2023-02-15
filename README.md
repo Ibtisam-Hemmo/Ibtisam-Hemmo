@@ -7,7 +7,7 @@ I am a **Full Stack web developer** and currently pursuing my Software Engineeri
 
 👀  I’m interested in Web Development, AI, and Software Engineering.  
 🌱  I’m currently learning JavaScript, React, Node.js, Database and Software Development.  
-📫  How to reach me, Email: ibtisamhemmo@gmail.com.
+📫  How to reach me: ibtisamhemmo@gmail.com, [LinkedIn](https://www.linkedin.com/in/ibtisamhemmo).
 
 ![](https://komarev.com/ghpvc/?username=Ibtisam-Hemmo)
 <br><br>

@@ -10,6 +10,7 @@ I am a **Full Stack web developer** and currently pursuing my Software Engineeri
 📫  How to reach me: ibtisamhemmo@gmail.com, [LinkedIn](https://www.linkedin.com/in/ibtisamhemmo).
 
 ![](https://komarev.com/ghpvc/?username=Ibtisam-Hemmo)
+
 <br><br>
 
 ## Techniques & Tools <img width="40" src="https://c.tenor.com/Pnb_hVWq2sgAAAAi/on-process-dig.gif" />
@@ -22,7 +23,7 @@ I am a **Full Stack web developer** and currently pursuing my Software Engineeri
 ## Activity <img width="35" src="https://c.tenor.com/dWMRNxW7Ti4AAAAi/iota-tanglevision.gif" />
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ibtisam-hemmo&theme=dracula&show_icons=true" /><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibtisam-hemmo&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" />
+   <img src="https://streak-stats.demolab.com?user=ibtisam-hemmo&theme=onedark&border_radius=5.6" />
 </div>
 
 ## Let's Get in Touch 💡

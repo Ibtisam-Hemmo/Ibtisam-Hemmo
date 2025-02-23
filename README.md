@@ -2,12 +2,11 @@
  Ibtisam Hemmo <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 </h1> <br>
 
-I am a **Full Stack web developer** and currently pursuing my Software Engineering from Al-Azhar university.<br />
+A passionate and self-driven **Software Engineer** specializing in front-end development, based in Palestine. I aspire to build and maintain responsive, high-performance web applications through meticulously written code and user-centered design. With a keen eye for detail, I focus on creating seamless, engaging user experiences by leveraging modern frameworks like React and TypeScript. I thrive in collaborative environments, continuously learning and adapting to the latest technologies to deliver innovative and scalable solutions. I aim to bridge functionality with aesthetics, ensuring that every project I work on is efficient and visually compelling. <br />
 <br />
 
-👀  I’m interested in Web Development, AI, and Software Engineering.  
-🌱  I’m currently learning JavaScript, React, Node.js, Database and Software Development.  
-📫  How to reach me: ibtisamhemmo@gmail.com, [LinkedIn](https://www.linkedin.com/in/ibtisamhemmo).
+👀  I’m interested in Software Engineering, Web Development, AI.  
+📫  How to reach me: ibtisamhemmo@gmail.com, [LinkedIn](https://www.linkedin.com/in/ibtisamhemmo), [Portfolio](https://ibtisamhemmo.netlify.app/).
 
 ![](https://komarev.com/ghpvc/?username=Ibtisam-Hemmo)
 
@@ -16,7 +15,7 @@ I am a **Full Stack web developer** and currently pursuing my Software Engineeri
 ## Techniques & Tools <img width="40" src="https://c.tenor.com/Pnb_hVWq2sgAAAAi/on-process-dig.gif" />
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,expressjs,figma,git,github,heroku,netlify,jest,linux,postgres,vite,react,redux,tailwind,vscode)" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,nextjs,sass,nodejs,expressjs,figma,git,github,heroku,netlify,jest,linux,postgres,vite,react,redux,tailwind,vscode)" />
   </a>
 </p>
 
